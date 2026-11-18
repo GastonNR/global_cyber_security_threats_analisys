@@ -1,4 +1,4 @@
-# Trabajo Práctico N°7 - Análisis de Ciberseguridad con Apache Spark
+# Análisis de Ciberseguridad con Apache Spark
 
 ## Descripción del Proyecto
 Análisis comprehensivo de incidentes de ciberseguridad globales (2015-2024) utilizando PySpark, Delta Lake y Databricks para el procesamiento y análisis de datos a gran escala.
